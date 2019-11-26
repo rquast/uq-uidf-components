@@ -51,5 +51,6 @@
     "compass-mixins": "^0.12.10",
     "font-awesome": "^4.7.0",
     "foundation-sites": "^5.5.3"
-  }
+  },
+  "gitHead": "1ac70410e43f0ca0a03615a20182d2ba4ff8f976"
 }

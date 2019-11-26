@@ -47,5 +47,6 @@
     "@uq-uidf/button": "^0.0.1",
     "@uq-uidf/core": "^0.0.1",
     "@uq-uidf/form": "^0.0.1"
-  }
+  },
+  "gitHead": "1ac70410e43f0ca0a03615a20182d2ba4ff8f976"
 }
